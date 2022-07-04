@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap');
+body {
+    background-color: aquamarine;
+    font: normal 30px 'Montserrat', sans-serif;
+}
+.bobi {
+    width: 800px;
+    border-radius: 40px;
+    margin: auto;
+    display: block;
+}
+.pidor {
+    padding: 1% 2.5%;
+    margin: 100px;
+    background-color: azure;
+    border-radius: 40px;
+}
+.pip {
+    margin-top: 140px;
+    text-align: center;
+}
+.but {
+    font: normal 30px 'Montserrat', sans-serif;
+}
+.tutt {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    width: 20%;
+    background-color: azure;
+    padding: 1% 2.5%;
+    border-radius: 40px;
+    margin-left: 100px;
+    margin-bottom: 90px;
+}
+.tutt:hover {
+    background-color: rgb(212, 255, 255);
+}
+.tutt:active {
+    background-color: rgb(105, 207, 207);
+}
+.didi {
+    margin: 100px;
+}
+#b {
+    margin: 0% 1.5%;
+}
+.vk {
+    background-color: rgb(66, 66, 255);
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 30%;
+    left: 0px;
+    border-radius: 0px 50px 50px 0px;
+}
+.vk2 {
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(0, 119, 255);
+    padding: 0.9%;
+    position: fixed;
+    top: 31.525%;
+    left: 10px;
+    border-radius: 50px 50px 50px 50px;
+}
+.vk2:hover {
+    background-color: rgb(53, 147, 255);
+}
+.vk2:active {
+    background-color: rgb(0, 85, 182);
+}
